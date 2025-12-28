@@ -1,0 +1,55 @@
+header{
+    height:100px;
+    background-color: blanchedalmond;
+    border-radius: 5px;
+}
+header h1{
+    font-weight: normal;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Hiragino Kaku Gothic ProN", sans-serif;
+  background-color: #f7f8fa;
+  color: #333;
+  margin: 0;
+}
+
+header {
+  background-color: #1f2937;
+  color: #fff;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+
+.X{
+    color:white;
+}
+
+section {
+  background: #fff;
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 24px;
+  border-radius: 8px;
+}
+
+h2 {
+  border-left: 4px solid #2563eb;
+  padding-left: 8px;
+  font-size: 18px;
+}
+h3{
+  font-size:16px;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  font-size: 12px;
+  color: #666;
+}
